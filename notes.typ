@@ -137,6 +137,25 @@ there are some cases where this is useful:
 
 #pagebreak()
 
+== worked example with 3 terms
+
+$ integral (x^2+2x+1)/(2x^3+2x-2) d x $
+
+(going to put this example in later, i have it in notebook)
+
+== worked second example
+
+$ integral (x^2+1)/((x-1)(x-2)(x-3)) d x $
+$ A/(x-1) + B/(x-2) + C/(x-3) = A(x-2)(x-3) + B(x-1)(x-3) + C(x-1)(x-2) $
+(noah has this to be inserted TODO)
+
+== repeated roots
+
+$ integral (6x+7)/(x+2)^2 $
+$ (6x+7)/(x+2)^2 =  $
+
+#pagebreak()
+
 = appendix
 
 == rules from 05/02
